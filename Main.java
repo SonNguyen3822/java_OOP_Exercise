@@ -8,7 +8,6 @@ public class Main {
             pets[0] = new Pets("Chó");
             pets[1] = new Pets("Mèo");
             pets[2] = new Pets("Chuột");
-            pets[2].setType("epic");
         
             Kai.addPets(pets);
             Kai.setLevel(10);
